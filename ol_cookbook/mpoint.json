@@ -1,4 +1,1 @@
-{"type":"FeatureCollection",
-	"features":[
-		{"type":"Feature","properties":null,"geometry":
-			{"type":"MultiPoint","coordinates":[[-9083776,3472687],[-8528431,4763354]]}}]}
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"popupContent":"Hi!"},"geometry":{"type":"MultiPoint","coordinates":[[-8528431.091365267,4763354.658220163],[-8355106.6442242665,4655936.155571734]]}}]}
