@@ -1,4 +1,4 @@
 {"type":"FeatureCollection",
 	"features":[
 		{"type":"Feature","properties":null,"geometry":
-			{"type":"MultiPoint","coordinates":[[360965,4350242],[4350242,360965]]}}]}
+			{"type":"MultiPoint","coordinates":[[-9083776,3472687],[4350242,360965]]}}]}
