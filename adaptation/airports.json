@@ -1,0 +1,8 @@
+
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":
+{"name":"JFK"},"geometry":
+{"type":"Point","coordinates":[-76.6684,39.1744]}},
+{"type":"Feature","properties":
+{"name":"JFK"},"geometry":
+{"type":"Point","coordinates":[-73.7781,40.6413]}}]}
